@@ -9,6 +9,6 @@
     "build": "wp-pwa build"
   },
   "wp-pwa": {
-    "wordpressUrl": "http://localhost:8000"
+    "wordpressUrl": "https://opulent-barnacle-j94j57rqp44cqq7x-8000.app.github.dev"
   }
 }
