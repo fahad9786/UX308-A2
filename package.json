@@ -1,4 +1,5 @@
 {
+  "homepage": "https://opulent-barnacle-j94j57rqp44cqq7x-8000.app.github.dev",
   "devDependencies": {
     "wp-pwa": "latest"
   },
@@ -7,8 +8,5 @@
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
     "build": "wp-pwa build"
-  },
-  "wp-pwa": {
-    "wordpressUrl": "https://opulent-barnacle-j94j57rqp44cqq7x-8000.app.github.dev"
   }
 }
