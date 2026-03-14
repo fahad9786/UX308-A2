@@ -1,5 +1,5 @@
 {
-  "homepage": "https://fahad9786.github.io/UX308-A2/",
+  "homepage": "https://fahad9786.github.io/UX308-A2",
   "devDependencies": {
     "wp-pwa": "latest"
   },
@@ -7,6 +7,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build"
+    "build": "wp-pwa build UX308-A2"
   }
 }
