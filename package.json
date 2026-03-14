@@ -7,5 +7,8 @@
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
     "build": "wp-pwa build"
+  },
+  "wp-pwa": {
+    "wordpressUrl": "http://localhost:8000"
   }
 }
